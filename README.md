@@ -1,4 +1,4 @@
-# Classes_CSharp
+# Classes_CSharp read with attention 
 Simple exercises in C # by URI Online Judge, all are commented to help beginners.
 
 exercise link - (https://www.urionlinejudge.com.br/judge/en/problems/index/1)
