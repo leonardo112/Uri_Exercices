@@ -17,8 +17,8 @@ namespace Exercise_1001
 
             //Obs.: don't forget the endline after all.
 
-            int A, B, X;
-                    A = int.Parse(Console.ReadLine());
+                    int A, B, X;
+                    A = int.Parse(Console.ReadLine());      //Read command is for user input and I declare int.parse because read is a command that returns string so we have to convert explicitly
                     B = int.Parse(Console.ReadLine());
                     X = A + B;
                     Console.WriteLine("X = " + X);
