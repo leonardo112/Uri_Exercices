@@ -1,0 +1,11 @@
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1002\bin\Debug\netcoreapp3.0\Exercise_1002.exe
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1002\bin\Debug\netcoreapp3.0\Exercise_1002.deps.json
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1002\bin\Debug\netcoreapp3.0\Exercise_1002.runtimeconfig.json
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1002\bin\Debug\netcoreapp3.0\Exercise_1002.runtimeconfig.dev.json
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1002\bin\Debug\netcoreapp3.0\Exercise_1002.dll
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1002\bin\Debug\netcoreapp3.0\Exercise_1002.pdb
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1002\obj\Debug\netcoreapp3.0\Exercise_1002.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1002\obj\Debug\netcoreapp3.0\Exercise_1002.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1002\obj\Debug\netcoreapp3.0\Exercise_1002.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1002\obj\Debug\netcoreapp3.0\Exercise_1002.dll
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1002\obj\Debug\netcoreapp3.0\Exercise_1002.pdb

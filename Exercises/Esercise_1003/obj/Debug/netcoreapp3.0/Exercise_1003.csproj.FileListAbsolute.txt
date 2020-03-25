@@ -1,0 +1,10 @@
+C:\Users\Leonardo\source\repos\Exercises\Esercise_1003\bin\Debug\netcoreapp3.0\Exercise_1003.exe
+C:\Users\Leonardo\source\repos\Exercises\Esercise_1003\bin\Debug\netcoreapp3.0\Exercise_1003.deps.json
+C:\Users\Leonardo\source\repos\Exercises\Esercise_1003\bin\Debug\netcoreapp3.0\Exercise_1003.runtimeconfig.json
+C:\Users\Leonardo\source\repos\Exercises\Esercise_1003\bin\Debug\netcoreapp3.0\Exercise_1003.runtimeconfig.dev.json
+C:\Users\Leonardo\source\repos\Exercises\Esercise_1003\bin\Debug\netcoreapp3.0\Exercise_1003.dll
+C:\Users\Leonardo\source\repos\Exercises\Esercise_1003\bin\Debug\netcoreapp3.0\Exercise_1003.pdb
+C:\Users\Leonardo\source\repos\Exercises\Esercise_1003\obj\Debug\netcoreapp3.0\Exercise_1003.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\Exercises\Esercise_1003\obj\Debug\netcoreapp3.0\Exercise_1003.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\Exercises\Esercise_1003\obj\Debug\netcoreapp3.0\Exercise_1003.dll
+C:\Users\Leonardo\source\repos\Exercises\Esercise_1003\obj\Debug\netcoreapp3.0\Exercise_1003.pdb

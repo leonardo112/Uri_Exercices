@@ -1,0 +1,11 @@
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1001\bin\Debug\netcoreapp3.0\Exercise_1001.exe
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1001\bin\Debug\netcoreapp3.0\Exercise_1001.deps.json
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1001\bin\Debug\netcoreapp3.0\Exercise_1001.runtimeconfig.json
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1001\bin\Debug\netcoreapp3.0\Exercise_1001.runtimeconfig.dev.json
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1001\bin\Debug\netcoreapp3.0\Exercise_1001.dll
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1001\bin\Debug\netcoreapp3.0\Exercise_1001.pdb
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1001\obj\Debug\netcoreapp3.0\Exercise_1001.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1001\obj\Debug\netcoreapp3.0\Exercise_1001.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1001\obj\Debug\netcoreapp3.0\Exercise_1001.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1001\obj\Debug\netcoreapp3.0\Exercise_1001.dll
+C:\Users\Leonardo\source\repos\Exercises\Exercise_1001\obj\Debug\netcoreapp3.0\Exercise_1001.pdb
