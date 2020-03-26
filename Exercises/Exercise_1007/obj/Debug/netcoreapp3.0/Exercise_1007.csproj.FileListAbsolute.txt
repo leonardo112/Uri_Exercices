@@ -1,0 +1,10 @@
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1007\bin\Debug\netcoreapp3.0\Exercise_1007.exe
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1007\bin\Debug\netcoreapp3.0\Exercise_1007.deps.json
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1007\bin\Debug\netcoreapp3.0\Exercise_1007.runtimeconfig.json
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1007\bin\Debug\netcoreapp3.0\Exercise_1007.runtimeconfig.dev.json
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1007\bin\Debug\netcoreapp3.0\Exercise_1007.dll
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1007\bin\Debug\netcoreapp3.0\Exercise_1007.pdb
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1007\obj\Debug\netcoreapp3.0\Exercise_1007.AssemblyInfoInputs.cache
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1007\obj\Debug\netcoreapp3.0\Exercise_1007.AssemblyInfo.cs
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1007\obj\Debug\netcoreapp3.0\Exercise_1007.dll
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1007\obj\Debug\netcoreapp3.0\Exercise_1007.pdb
