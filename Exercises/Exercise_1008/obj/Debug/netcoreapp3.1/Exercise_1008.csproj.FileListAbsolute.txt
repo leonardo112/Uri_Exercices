@@ -1,0 +1,13 @@
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1008\bin\Debug\netcoreapp3.1\Exercise_1008.exe
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1008\bin\Debug\netcoreapp3.1\Exercise_1008.deps.json
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1008\bin\Debug\netcoreapp3.1\Exercise_1008.runtimeconfig.json
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1008\bin\Debug\netcoreapp3.1\Exercise_1008.runtimeconfig.dev.json
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1008\bin\Debug\netcoreapp3.1\Exercise_1008.dll
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1008\bin\Debug\netcoreapp3.1\Exercise_1008.pdb
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1008\obj\Debug\netcoreapp3.1\Exercise_1008.csprojAssemblyReference.cache
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1008\obj\Debug\netcoreapp3.1\Exercise_1008.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1008\obj\Debug\netcoreapp3.1\Exercise_1008.AssemblyInfoInputs.cache
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1008\obj\Debug\netcoreapp3.1\Exercise_1008.AssemblyInfo.cs
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1008\obj\Debug\netcoreapp3.1\Exercise_1008.dll
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1008\obj\Debug\netcoreapp3.1\Exercise_1008.pdb
+D:\PROJETOS\Classes_CSharp\Exercises\Exercise_1008\obj\Debug\netcoreapp3.1\Exercise_1008.genruntimeconfig.cache
